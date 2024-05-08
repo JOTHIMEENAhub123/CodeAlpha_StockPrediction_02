@@ -1,1 +1,3 @@
-# CodeAlpha_StockPrediction_02
+tTask-02 Stock Prediction
+
+Take stock price of any company you want and predicts its price by using LSTM. Use only Jupyter notebook code.
